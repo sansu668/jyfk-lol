@@ -1,0 +1,13 @@
+{
+  "name": "JYFK Games",
+  "short_name": "JYFK",
+  "tagline": "Free browser games. No downloads, no sign-up.",
+  "domain": "jyfk.lol",
+  "base_url": "https://jyfk.lol",
+  "repo_url": "https://github.com/sansu668/jyfk-lol",
+  "adsense_client": "",
+  "adsense_slot": "",
+  "gsc_verification": "",
+  "theme_color": "#0d1226",
+  "lang": "en"
+}

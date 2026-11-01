@@ -1,0 +1,38 @@
+{
+  "slug": "tideline",
+  "plan": "G01",
+  "title": "Tideline",
+  "short": "Hold to dive, let go to rise, and thread glowing kelp gates that rise and fall with the tide.",
+  "description": "Tideline is a one-button diving game set in a glowing night sea. Hold to dive, let go and your diver floats back up. Your only job is to slip through the gaps in the kelp gates that drift toward you, and to keep going for as long as you can.\n\nThe twist is the tide. The whole sea slowly rises and falls, and every gate floats on the waterline, so every gap rides the tide with it. When the water drops, the gaps drop. When it swells, they lift. You are always reading two rhythms at once: your own sinking and floating, and the slow swing of the sea. A tide gauge on the left edge, the moving waterline and a low bell that rings when the tide turns help you read it. The longer you last, the faster you swim, the narrower the gaps get and the harder the tide pulls, through three zones from the Lantern Shallows to the Violet Deep.\n\nPearls float inside many gaps. Collect them to unlock six glowing divers, from the cyan Glowkit to the rainbow Prism Drifter. Glowing buoys mark your best distance, today's best and the daily goal, so every dive has a target. Reach the daily goal for bonus pearls, and come back each day to grow your streak.\n\nTideline runs in any modern browser on phones, tablets and computers. There is nothing to install and no account to create. Your pearls, divers and records are saved on your device.",
+  "category": "arcade",
+  "tags": ["one-button", "tide", "diving", "underwater", "endless", "neon"],
+  "orientation": "portrait",
+  "controls": {
+    "keyboard": "Hold Space, Down arrow, S or Enter to dive. Release to float up. Left / Right arrows pick a diver before a dive. P or Esc pauses.",
+    "mouse": "Hold the left mouse button anywhere to dive, release to float up. Click the arrows on the start panel to change diver.",
+    "touch": "Touch and hold anywhere to dive, lift your finger to float up. Tap the arrows on the start panel to change diver."
+  },
+  "how_to_play": [
+    "Press Play, then hold the screen, mouse button or Space to start diving.",
+    "Hold to sink and let go to float up toward the waterline.",
+    "Steer through the gap in each kelp gate. The glowing pods mark its edges.",
+    "Watch the waterline and the tide gauge. Every gap moves up and down with the tide.",
+    "Collect pearls to unlock new divers and beat the daily goal for bonus pearls."
+  ],
+  "tips": [
+    "Aim for where the gap will be when you reach it, not where it is right now.",
+    "Let go a little before you reach the right depth. You keep sinking for a moment after you release.",
+    "A low bell rings when the tide turns. Use it to time long dives.",
+    "Floating at the surface is never safe, because the top kelp hangs right from the rafts.",
+    "Gold pearls are worth five normal pearls, so they are worth a small risk."
+  ],
+  "faq": [
+    {"q": "Is Tideline free to play?", "a": "Yes. Tideline is free in your browser with no download, no sign-up and no in-app purchases."},
+    {"q": "Does Tideline work on mobile?", "a": "Yes. Touch and hold anywhere to dive and lift your finger to rise. It works on iPhone, Android phones, tablets and desktop browsers."},
+    {"q": "Why do the gaps move up and down?", "a": "Every kelp gate floats with the sea. As the tide rises and falls, the whole gate and its gap move with the waterline, so you have to time your dive to the tide."},
+    {"q": "How do I unlock new divers?", "a": "Collect pearls during your dives. The first diver is free, four more unlock at 40, 100, 180 and 300 pearls in total, and the Prism Drifter unlocks when you reach 750 meters in one dive."},
+    {"q": "Is my progress saved?", "a": "Your pearls, divers, best distance, daily best and streak are stored in your browser on this device. Clearing your browser data removes them."}
+  ],
+  "added": "2026-11-01",
+  "version": 1
+}

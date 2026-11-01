@@ -1,0 +1,12 @@
+_site/
+_qa/
+_preview/
+_publish/
+node_modules/
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store

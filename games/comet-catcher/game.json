@@ -1,0 +1,36 @@
+{
+  "slug": "comet-catcher",
+  "plan": "EXAMPLE",
+  "title": "Comet Catcher",
+  "short": "Catch falling stars and comets, dodge red meteors, and build a combo multiplier.",
+  "description": "Comet Catcher is a fast, glowing arcade game about reflexes and focus. Stars, comets and the occasional heart rain down from a purple night sky, and your job is to slide a glowing catcher along the bottom of the screen and scoop up everything bright.\n\nEvery star you catch adds to your combo. Every five catches in a row raise your multiplier, up to five times the normal points, so a long clean streak is worth far more than a few lucky grabs. Fast blue comets bounce off the edges of the sky and are worth five stars each, but they are harder to read.\n\nThe red meteors are the danger. Catch one and you lose a life and your combo. You start with three lives, and pink hearts can refill them. The sky gets busier and faster the longer you survive, so the game always ends in a frantic rush.\n\nComet Catcher runs in any modern browser on phones, tablets and computers. There is nothing to install and no account to create. Your best score is saved on your device.",
+  "category": "arcade",
+  "tags": ["catch", "reflex", "space", "combo", "one-hand"],
+  "orientation": "portrait",
+  "controls": {
+    "keyboard": "Left / Right arrows or A / D to move. P or Esc to pause.",
+    "mouse": "Click and drag left or right.",
+    "touch": "Touch and drag anywhere on the screen."
+  },
+  "how_to_play": [
+    "Press Play, Space or tap the screen to start.",
+    "Move the catcher left and right under falling stars and comets.",
+    "Avoid the red meteors. Each one you catch costs a life.",
+    "Catch pink hearts to win back lost lives.",
+    "Keep a streak going to raise your multiplier up to x5."
+  ],
+  "tips": [
+    "Stay near the middle of the screen so you can reach both edges quickly.",
+    "When a meteor and a star fall close together, let the star go. A broken combo costs less than a life.",
+    "Comets bounce off the walls. Watch their angle before you commit.",
+    "On a phone, drag with your thumb below the catcher so you can still see what is falling."
+  ],
+  "faq": [
+    {"q": "Is Comet Catcher free?", "a": "Yes. It is free to play in your browser with no download, no sign-up and no in-app purchases."},
+    {"q": "Does it work on mobile?", "a": "Yes. Touch and drag to move the catcher. It works on iPhone, Android phones, tablets and desktop browsers."},
+    {"q": "How does the multiplier work?", "a": "Every five catches in a row add one to your multiplier, up to x5. Missing a star or hitting a meteor resets the streak."},
+    {"q": "Is my best score saved?", "a": "Your best score is stored in your browser on this device. Clearing your browser data removes it."}
+  ],
+  "added": "2026-11-01",
+  "version": 1
+}
