@@ -1,0 +1,39 @@
+{
+  "slug": "echo-cave",
+  "plan": "G22",
+  "title": "Echo Cave",
+  "short": "Fly a bat through a pitch-black cave. Echo to see the walls for a moment, then fly from memory.",
+  "description": "Echo Cave is a dark, atmospheric flying game about memory and nerve. You are a small bat in a cave with no light at all. The screen is black until you send out an echo. Then a ring of sound rolls out from your wings, the rock around you glows for a moment, and the darkness swallows it again. You have to remember the shape of the tunnel ahead and fly through it blind.\n\nSound is the heart of the game. Every echo comes back to you: walls above ring high, walls below ring low, and a close wall answers sooner and louder than a far one. A soft beeping warns you when your wings are about to scrape the rock, and a heartbeat starts to race when something is hunting you. Playing with headphones is the best way to fly.\n\nYou cannot simply echo all the time. Each echo has a short recharge, and every call adds to a noise meter. When the cave gets loud, the sleepers hanging from the ceiling open their red eyes. Echo again and they wake up and dive at the spot where they last heard you, so the safest move is to echo, then change height. Fly long stretches without a sound to raise the Blind bonus, collect glowing crystals, and fool hunters into striking empty air.\n\nChoose Endless for a new cave on every flight, or the Daily Cave, where everyone gets the same cave and a special twist for the day. Earn ten trophies to unlock eight bat skins that recolor your whole echo, keep a daily streak going, and chase your best distance.",
+  "category": "action",
+  "tags": ["bat", "cave", "memory", "dark", "sound", "endless", "daily-challenge"],
+  "orientation": "landscape",
+  "controls": {
+    "keyboard": "Up / Down arrows or W / S to steer. Space, Enter or E to echo. In the Roost, Left / Right change skin. P or Esc to pause.",
+    "mouse": "Move the mouse up and down to steer. Click to echo. Click a cave card in the Roost to start.",
+    "touch": "Drag up or down anywhere to steer. Tap the screen or the echo button to echo. Tap a cave card to start."
+  },
+  "how_to_play": [
+    "Press Play, then pick Endless or the Daily Cave in the Roost.",
+    "Echo to light up the cave walls for a short moment.",
+    "Remember the walls and steer through the dark before they fade.",
+    "Watch the noise meter. Echoing too often wakes the hunters.",
+    "Hunters strike where they last heard you, so change height after every echo.",
+    "You have three wings. Collect 12 crystals in one flight to heal one."
+  ],
+  "tips": [
+    "Echo just before a turn, not in the middle of a straight tunnel. One good look can carry you a long way.",
+    "Listen to the returning pings. A quick, loud ping means a wall is close in that direction.",
+    "Staying silent raises the Blind bonus up to four times the points, so trust your memory.",
+    "If red eyes appear, echo once, then move up or down right away to send the hunter to an empty spot.",
+    "Faint golden glimmers in the dark are crystals. They are worth points but often sit near sharp rock."
+  ],
+  "faq": [
+    {"q": "Is Echo Cave free to play?", "a": "Yes. It runs free in your web browser with no download, no account and no in-app purchases."},
+    {"q": "Does Echo Cave work on phones?", "a": "Yes. Hold your phone sideways, drag to steer and tap to echo. It works on Android, iPhone, tablets and desktop browsers."},
+    {"q": "What is the Daily Cave?", "a": "Each day there is one cave that is the same for every player, with a special twist such as a tight squeeze or a crystal vein. Fly it every day to build a streak."},
+    {"q": "How do I unlock new bat skins?", "a": "Each skin is tied to a trophy, such as reaching 500 m, flying 8 seconds without an echo or never leaving Calm. Pick unlocked skins in the Roost before a flight."},
+    {"q": "Is my progress saved?", "a": "Your best scores, trophies, skins and daily streak are saved in your browser on this device. Clearing browser data removes them."}
+  ],
+  "added": "2026-11-01",
+  "version": 1
+}
